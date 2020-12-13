@@ -7,12 +7,8 @@
     "node": "12.x"
   },
   "scripts": {
-<<<<<<< HEAD
-    "start": "node ./src/index.js"
-=======
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
->>>>>>> 2f8fb31ac867dd672d2f0d1588c126a005bf8daa
   },
   "keywords": [],
   "author": "",
